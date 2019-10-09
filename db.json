@@ -1,0 +1,9 @@
+{
+    "statuscode":1,
+    "message":"Test message",
+	"data":{
+		"user":"KrunalComnet",
+		"firstname":"Krunal",
+		"lastname":"Panchal"
+	}
+}
