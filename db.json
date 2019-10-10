@@ -1,9 +1,39 @@
-{
-    "statuscode":1,
-    "message":"Test message",
-	"data":{
-		"user":"KrunalComnet",
-		"firstname":"Krunal",
-		"lastname":"Panchal"
-	}
+{    
+	"login" : {
+			"responseCode": 0,
+			"responseMessage": "Login Successfull.",
+			"data": {
+				"memberid": "1273",
+				"countryid": "98",
+				"countryname": "India",
+				"nationalityid": "75",
+				"nationality": "Indian",
+				"company": "Cognifyx",
+				"salutation": "Mr",
+				"gender": "Male",
+				"profileimage": "ProfileImage1273.jpg",
+				"firsttimelogindate": "24/04/2019 08:41:11 AM",
+				"secondtimelogindate": "10/10/2019 12:13:24 PM",
+				"secondtimelogindateutc": "10/10/2019 04:13:24 AM",
+				"appversion": "26",
+				"fullname": "6166",
+				"email": "bhavdip@comnet.com.sg",
+				"mobile": "9724686138",
+				"address": "address goes here",
+				"postalcode": "658722",
+				"dob": "31 Jan 1990",
+				"devicetype": "1",
+				"deviceid": "cC0NW0bLZvA:APA91bHL1StDr9qrQHN_BNIye9vA6gUJV3EyhzAQEBPI_P9-iYq2KuQkHqExB8hpQZepJKvvr8FmGvOT3W949-SOJjR0mB1l230OfSDce4hP0g51OzoyOUJad5Js-M8c4wH2sTd8VbUZ",
+				"appmode": "Development",
+				"companyname": "",
+				"imei": "866066036665432",
+				"corporateid": "Cogni6166",
+				"membertype": "L",
+				"height": "55",
+				"weight": "55",
+				"lcodeid": "2",
+				"nickname": "neel",
+				"avatarimg": "252311de-a14d-4581-9cc8-ffd18d6aae0a.jpeg"
+			}
+		}
 }
